@@ -1,0 +1,8 @@
+{
+  "name": "spring153",
+  "version": "1.0.0",
+  "_id": "spring153@1.0.0",
+  "dependencies": {
+    "firebase": "^9.12.1"
+  }
+}
